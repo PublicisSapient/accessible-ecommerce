@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HelloWorld
-published: false
+published: true
 ---
 
 Hello World
