@@ -1,3 +1,10 @@
+---
+layout: post
+title: Publicis.Sapient Toronto’s Accessible E-Commerce Demo Store
+categories: accessibility
+published: true
+---
+
 # Publicis.Sapient Toronto’s Accessible E-Commerce Demo Store
 Welcome to Publicis.Sapient Toronto’s accessible e-commerce demo store – the first of its kind in the world. We designed and developed it as a teaching and learning tool for our internal teams as well as for everyone, and we are excited to have our initial launch on Global Accessibility Awareness Day, 2018. 
 
