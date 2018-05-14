@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Publicis.Sapient Toronto’s Accessible E-Commerce Demo Store
 categories: accessibility
 published: true
