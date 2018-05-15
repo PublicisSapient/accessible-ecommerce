@@ -21,6 +21,12 @@ a {
     padding: 5px 10px;
 }
 
+#top_header img {
+    float: left;
+    border: 0;
+    box-shadow: none;
+}
+
 #forkme_banner {
     background: url(../images/blacktocat.png) #444 no-repeat 95% 50%;
 }
