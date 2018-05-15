@@ -10,6 +10,10 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.1;
 }
 
+h1 {
+    font-size: 32px;
+}
+
 a {
     color: #B94650;
     text-decoration: underline;
@@ -24,7 +28,7 @@ a {
 
 #top_header img {
     float: left;
-    padding-right:10px;
+    padding-right:15px;
     border: 0;
     box-shadow: none;
 }
