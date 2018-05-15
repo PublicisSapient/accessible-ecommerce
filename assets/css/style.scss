@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header_wrap {
+  background: url("assets/images/ps-header.gif") repeat-x;
+}
