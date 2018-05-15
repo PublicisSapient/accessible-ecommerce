@@ -23,6 +23,7 @@ a {
 
 #top_header img {
     float: left;
+    padding-right:10px;
     border: 0;
     box-shadow: none;
 }
@@ -34,4 +35,8 @@ a {
 #header_wrap {
     height: 260px;
     background: url("/accessible-ecommerce/assets/images/ps-header2.gif") repeat-x;
+}
+
+#main_content_wrap {
+    background: #f4f0ec;
 }
