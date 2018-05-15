@@ -3,11 +3,17 @@
 
 @import "{{ site.theme }}";
 
-/*#header_wrap {
-  background: url("/accessible-ecommerce/assets/images/ps-header2.gif") repeat-x;
-}*/
-
+/* GLOBAL OVERRIDES*/
 h1, h2, h3, h4, h5, h6 {
     font-family: Helvetica, 'Lucida Grande', 'Calibri', Arial, sans-serif;
     letter-spacing: 0;
 }
+
+a {
+    color: #c15d66;
+}
+
+/* HEADER OVERRIDES */
+/*#header_wrap {
+  background: url("/accessible-ecommerce/assets/images/ps-header2.gif") repeat-x;
+}*/
