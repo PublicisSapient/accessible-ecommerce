@@ -8,7 +8,7 @@ layout: default
           <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <p id="project_tagline">{{ site.description | default: site.github.project_tagline }}</p>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -24,7 +24,7 @@ layout: default
       <section id="main_content" class="inner">
         {{ content }}
           
-          <h3>Latest Posts</h3>
+          <h2>Latest Posts</h2>
           <div>&nbsp;</div>
 
         <ul class="post-list">
@@ -34,9 +34,9 @@ layout: default
              {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
              <span class="post-meta">{{ post.date | date: date_format }}</span>
 
-              <h2>
+              <h3>
                 <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-              </h2>
+              </h3>
 
               <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
 
