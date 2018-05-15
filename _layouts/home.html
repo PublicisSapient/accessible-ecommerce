@@ -2,29 +2,52 @@
 layout: default
 ---
 
-<div>
+<!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
 
-  {{ content }}
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-  <h2>Latest Posts</h2>
+          {% if site.show_downloads %}
+            <section id="downloads">
+              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
+              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
+            </section>
+          {% endif %}
+        </header>
+    </div>
 
-  <div>&nbsp;</div>
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+      </section>
+    
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
+      <div>
 
-        {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h2>Latest Posts</h2>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
-        </h2>
+       <div>&nbsp;</div>
 
-        <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
+        <ul class="post-list">
+          {% for post in site.posts %}
+           <li>
 
-      </li>
-    {% endfor %}
-  </ul>
+             {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
+             <span class="post-meta">{{ post.date | date: date_format }}</span>
 
+              <h2>
+                <a class="post-link" href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title | escape }}</a>
+              </h2>
+
+              <span>{{ post.excerpt | markdownify | truncatewords: 30 }}</span>
+
+            </li>
+          {% endfor %}
+        </ul>
+
+    </div>
 </div>
