@@ -36,6 +36,18 @@ a {
     text-decoration: underline;
 }
 
+blockquote {
+    color: #f4f0ec;
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 3px solid #bbb;
+    background-color: #444;
+    /*font-family: helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 600;*/
+    font: 600 normal 28px, Helvetica;
+}
+
 /* HEADER OVERRIDES */
 
 #top_header {
