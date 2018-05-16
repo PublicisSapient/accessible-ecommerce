@@ -21,7 +21,7 @@ layout: default
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-          <h1 id="project_title">{{ post.title | default: site.github.repository_name }}</h1>
+          <h1>{{ post.title | default: site.github.repository_name }}</h1>
         {{ content }}
       </section>
     </div>
