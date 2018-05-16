@@ -1,5 +1,5 @@
 ---
-title:  Accessible e-commerce demo store launch on Global Accessibility Awareness Day, 2018
+title:  Publicis.Sapient Toronto launches an accessible e-commerce demo store
 categories: accessibility
 published: true
 ---
