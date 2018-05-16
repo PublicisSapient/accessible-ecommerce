@@ -32,7 +32,7 @@ In the coming weeks, we will post the learnings from our deep dive sessions as a
 * the product filter and sorting mechanisms 
 * the product tile 
 
-Navigate to our [Product Listing Page](https://publicissapient.github.io/accessible-ecommerce-demo/pages/plp/plp.html) and experience how it feels to use it with your keyboard alone, with a screen reader, or with any other assistive device. We will be adding a commenting functionality to capture any issues people experience with the site, so that we can address them.
+Navigate to our [Product Listing Page](https://publicissapient.github.io/accessible-ecommerce-demo/pages/plp/plp.html) and experience how it feels to use it with your keyboard alone, with a screen reader, or with any other assistive device. We will be adding commenting functionality to capture any issues people experience with the site, so that we can address them.
 
 ## The unfulfilled promise of the internet
 From the late 1990s onward, the internet gradually became part of our lives. In 2016, it was estimated that 3.4 billion people regularly used “the Web”. With more and more people using the internet, physical modes of content were steadily replaced by electronic modes of content. A big part of the shift was that commerce at physical locations was replaced or augmented by e-commerce storefronts. 
