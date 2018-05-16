@@ -4,7 +4,7 @@ categories: accessibility
 published: true
 ---
 
-**Welcome to Publicis.Sapient Toronto’s accessible e-commerce demo store** – the first of its kind in the world. We designed and developed it as a teaching and learning tool for our internal teams as well as for everyone, and we are excited to have our initial launch on Global Accessibility Awareness Day, 2018. 
+**Welcome to Publicis.Sapient Toronto’s accessible e-commerce demo store – the first of its kind in the world.** We designed and developed it as a teaching and learning tool for our internal teams as well as for everyone, and we are excited to have our initial launch on Global Accessibility Awareness Day, 2018. 
 
 Our initial launch consists of a clickable wireframe of the Product Listing Page. We will continue building on this in subsequent releases until we have a complete e-commerce on Global Accessibility Awareness Day in 2019. We will also be adding documentation related to the thinking and the code behind each accessible component as we go. One of our final steps will be to work with our creative team to apply an eye-catching yet contrast-friendly design skin to the storefront.
 
@@ -21,7 +21,7 @@ Our initial launch consists of a clickable wireframe of the Product Listing Page
 2.	**To give our creative and development teams the time and space to research and document the accessibility considerations of common e-commerce storefront components.** Accessibility compliance is a team effort, and requires collaboration from every discipline, including user experience designers, visual designers, developers, product owners, etc. 
 3.	**To create a live example of an accessible e-commerce storefront that we can show to our clients and to the world at large,** both to showcase our expertise and to share the knowledge with everyone. Our main goal is to accelerate the adoption of accessible design and development practices to make content more accessible to everyone, sooner.
 
-## Accessible Product Listing Page Components
+## Accessible product listing page components
 Every component of our Product Listing Page was thoroughly researched from accessibility and usability lenses. The accessibility considerations, applied to individual components, were taught and discussed over the course of multiple accessibility “deep dive” sessions. Subsequently, these components were then designed and developed by teams of user experience designers and front-end developers during a 3-hour hackathon. Finally, visual designers worked with developers to standardize the look and feel of the page.
 
 In the coming weeks, we will post the learnings from our deep dive sessions as a series of blog posts for each component. Our Product Listing Page component list includes: 
