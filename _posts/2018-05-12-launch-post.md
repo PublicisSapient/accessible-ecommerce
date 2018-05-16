@@ -9,24 +9,24 @@ published: true
 Our initial launch consists of a clickable wireframe of the Product Listing Page. We will continue building on this in subsequent releases until we have a complete e-commerce on Global Accessibility Awareness Day in 2019. We will also be adding documentation related to the thinking and the code behind each accessible component as we go. One of our final steps will be to work with our creative team to apply an eye-catching yet contrast-friendly design skin to the storefront.
 
 ## What our demo is, and what it is not
-* **It is** fully keyboard navigable and screenreader-friendly in it's current state. Navigate with your tab key to discover hidden wayfinding cues, and note how we tried to provide screenreader users with the appropriate amount of context and information as they navigated through the site.
-* **It is not** fully designed. Think of it as a clickable wireframe right now. We are working out all of the interactions first, then applying an eye-catching design later.
-* **It is not** fully functional at the moment. For example, right now you can't add an item to your cart. We plan to make that work shortly. This is as far as we got for Global Accessibility Awareness Day.
+* **It is fully keyboard navigable and screenreader-friendly** in it's current state. Navigate with your tab key to discover hidden wayfinding cues, and note how we tried to provide screenreader users with the appropriate amount of context and information as they navigated through the site.
+* **It is not fully designed.** Think of it as a clickable wireframe right now. We are working out all of the interactions first, then applying an eye-catching design later.
+* **It is not fully functional** at the moment. For example, right now you can't add an item to your cart. We plan to make that work shortly. This is as far as we got for Global Accessibility Awareness Day.
 
 ## 3 reasons to build an accessible e-commerce demo store:
-1. To teach our internal teams how to navigate the web with their keyboards alone, and with assistive devices like screen readers. Would you ask someone who had only ever driven a car to design the perfect bike? Probably not. But that is essentially what we are asking designers and developers to do when we ask people who have always navigated with a mouse pointing device to design and build something that works for a keyboard user.
-2.	To give our creative and development teams the time and space to research and document the accessibility considerations of common e-commerce storefront components. Accessibility compliance is a team effort, and requires collaboration from every discipline, including user experience designers, visual designers, developers, product owners, etc. 
-3.	To create a live example of an accessible e-commerce storefront that we can show to our clients and to the world at large, both to showcase our expertise and to share the knowledge with everyone. Our main goal is to accelerate the adoption of accessible design and development practices to make content more accessible to everyone, sooner.
+1. **To teach our internal teams how to navigate the web with their keyboards alone, and with assistive devices like screen readers.** Would you ask someone who had only ever driven a car to design the perfect bike? Probably not. But that is essentially what we are asking designers and developers to do when we ask people who have always navigated with a mouse pointing device to design and build something that works for a keyboard user.
+2.	**To give our creative and development teams the time and space to research and document the accessibility considerations of common e-commerce storefront components.** Accessibility compliance is a team effort, and requires collaboration from every discipline, including user experience designers, visual designers, developers, product owners, etc. 
+3.	**To create a live example of an accessible e-commerce storefront that we can show to our clients and to the world at large,** both to showcase our expertise and to share the knowledge with everyone. Our main goal is to accelerate the adoption of accessible design and development practices to make content more accessible to everyone, sooner.
 
 ## Accessible Product Listing Page Components
 Every component of our Product Listing Page was thoroughly researched from accessibility and usability lenses. The accessibility considerations, applied to individual components, were taught and discussed over the course of multiple accessibility “deep dive” sessions. Subsequently, these components were then designed and developed by teams of user experience designers and front-end developers during a 3-hour hackathon. Finally, visual designers worked with developers to standardize the look and feel of the page.
 
 In the coming weeks, we will post the learnings from our deep dive sessions as a series of blog posts for each component. Our Product Listing Page component list includes: 
-•	the global navigation menu [scheduled blog post date] 
-•	the footer [scheduled blog post date] 
-•	the mini-cart [scheduled blog post date] 
-•	the product filter and sorting mechanisms [scheduled blog post date] 
-•	the product tile [scheduled blog post date] 
+* the global navigation menu 
+* the footer 
+* the mini-cart  
+* the product filter and sorting mechanisms 
+* the product tile 
 
 Navigate to our [Product Listing Page](https://publicissapient.github.io/accessible-ecommerce-demo/pages/plp/plp.html) and experience how it feels to use it with your keyboard alone, with a screen reader, or with any other assistive device. If you experience any issues, please let us know [how?] so we can address them.
 
