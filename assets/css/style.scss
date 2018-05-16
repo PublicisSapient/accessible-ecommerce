@@ -61,6 +61,15 @@ blockquote {
     box-shadow: none;
 }
 
+.site_name {    
+    font-family: Georgia, Times, Palatino, serif;
+    Font-size: 22px;
+    font-weight: 600;
+    width: 500px;
+    line-height: 1.1;
+    padding: 10px 0;
+}
+
 #forkme_banner {
     background: url(../images/blacktocat.png) #444 no-repeat 95% 50%;
 }
