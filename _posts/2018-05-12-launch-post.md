@@ -13,7 +13,7 @@ Our initial launch consists of a clickable wireframe of the Product Listing Page
 * **It is not fully designed.** Think of it as a clickable wireframe right now. We are working out all of the interactions first, then applying an eye-catching design later.
 * **It is not fully functional** at the moment. For example, right now you can't add an item to your cart. We plan to make that work shortly. This is as far as we got for Global Accessibility Awareness Day.
 * **It is not representative of today's best coding standards -- yet.** This code came out of multiple hackathon sessions. The point of the demo today is to showcase how an accessible e-commerce website should feel and behave. We will clean up the code later.
-* **It is not perfect.** We didn't want to waste time trying to make it perfect before getting it out there. The danger would be that it would never be perfect enough. Edward de bono said it best:
+* **It is not perfect.** We didn't want to waste time trying to make it perfect before getting it out there. The danger would be that it would never be perfect enough. Edward de Bono said it best:
 > An idea that is developed and put into action is more important than an idea that exists only as an idea.
 
 ## 3 reasons to build an accessible e-commerce demo store:
