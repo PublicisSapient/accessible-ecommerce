@@ -4,9 +4,14 @@ categories: accessibility
 published: true
 ---
 
-Welcome to Publicis.Sapient Toronto’s accessible e-commerce demo store – the first of its kind in the world. We designed and developed it as a teaching and learning tool for our internal teams as well as for everyone, and we are excited to have our initial launch on Global Accessibility Awareness Day, 2018. 
+**Welcome to Publicis.Sapient Toronto’s accessible e-commerce demo store** – the first of its kind in the world. We designed and developed it as a teaching and learning tool for our internal teams as well as for everyone, and we are excited to have our initial launch on Global Accessibility Awareness Day, 2018. 
 
 Our initial launch consists of a clickable wireframe of the Product Listing Page. We will continue building on this in subsequent releases until we have a complete e-commerce on Global Accessibility Awareness Day in 2019. We will also be adding documentation related to the thinking and the code behind each accessible component as we go. One of our final steps will be to work with our creative team to apply an eye-catching yet contrast-friendly design skin to the storefront.
+
+## What our demo is, and what it is not
+* **It is** fully keyboard navigable and screenreader-friendly in it's current state. Navigate with your tab key to discover hidden wayfinding cues, and note how we tried to provide screenreader users with the appropriate amount of context and information as they navigated through the site.
+* **It is not** fully designed. Think of it as a clickable wireframe right now. We are working out all of the interactions first, then applying an eye-catching design later.
+* **It is not** fully functional at the moment. For example, right now you can't add an item to your cart. We plan to make that work shortly. This is as far as we got for Global Accessibility Awareness Day.
 
 ## 3 reasons to build an accessible e-commerce demo store:
 1. To teach our internal teams how to navigate the web with their keyboards alone, and with assistive devices like screen readers. Would you ask someone who had only ever driven a car to design the perfect bike? Probably not. But that is essentially what we are asking designers and developers to do when we ask people who have always navigated with a mouse pointing device to design and build something that works for a keyboard user.
