@@ -25,7 +25,9 @@ layout: default
           <h1>{{ page.title }}</h1>
         {{ content }}
       </section>
+        {% if page.comments %}
         {% include disqus.html %}
+        {% end if %}
     </div>
 
         
