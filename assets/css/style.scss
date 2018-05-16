@@ -74,18 +74,13 @@ blockquote {
     background: url(../images/blacktocat.png) #444 no-repeat 95% 50%;
 }
 
-#header_wrap {
-    height: 260px;
-    background: url("/accessible-ecommerce/assets/images/ps-header2.gif") repeat-x;
-}
-
-#banner_wrap_home {
+#header_wrap, #banner_wrap_home {
     height: 260px;
     background: url("/accessible-ecommerce/assets/images/ps-header2.gif") repeat-x;
 }
 
 #banner_wrap_post {
-    height: 89px;
+    height: 88px;
     background: url("/accessible-ecommerce/assets/images/ps-header-thin.gif") repeat-x;
 }
 
