@@ -1,5 +1,5 @@
 ---
-title:  Publicis.Sapient Toronto launches an accessible e-commerce demo store
+title:  Publicis.Sapient Toronto launches the Accessible eStore
 categories: accessibility
 published: true
 ---
